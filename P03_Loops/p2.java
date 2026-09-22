@@ -1,4 +1,4 @@
-package P03_Loopa;
+package P03_Loops;
 
 public class p2 {
     public static void main(String[] args) {
