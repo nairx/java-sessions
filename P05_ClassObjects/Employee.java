@@ -7,7 +7,6 @@ public class Employee {
 
     static String company = "Broadridge";
    
-
     public Employee(String name, int age, double salary) {
         this.name = name;
         this.age = age;
